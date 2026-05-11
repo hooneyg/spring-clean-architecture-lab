@@ -1,4 +1,4 @@
-<![CDATA[# 🔬 Spring Clean Architecture Lab
+# 🔬 Spring Clean Architecture Lab
 
 > **"좋은 아키텍처는 기술 교체 비용을 0에 가깝게 만든다."**
 > 
@@ -347,4 +347,3 @@ main   ─── 배포 가능한 안정 코드 (Protected · PR + 코드 리뷰
 | **DevOps** | Docker (Multi-stage), GitHub Actions, Nginx |
 | **Testing** | JUnit5, AssertJ, Mockito, Testcontainers |
 | **Security** | JWT (RTR), TOTP MFA, AES-256, ISMS-P |
-]]>
